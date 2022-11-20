@@ -1,9 +1,9 @@
 # DockerFinalTask-
 
-                                     ![download](https://user-images.githubusercontent.com/66691418/202922652-9483dbf0-a059-4f29-bdcd-679fa7880cf6.png)
+![download](https://user-images.githubusercontent.com/66691418/202922652-9483dbf0-a059-4f29-bdcd-679fa7880cf6.png)
 
 Task : 
-1.Create a Python Web APP (use either Flask or FastAPI libraries) that:
+1. Create a Python Web APP (use either Flask or FastAPI libraries) that:
   ● Presents the Current BitCoin Price
   ● Stores the price in a Redis Database
   ● Presents the Average Price for the last 10 minutes
